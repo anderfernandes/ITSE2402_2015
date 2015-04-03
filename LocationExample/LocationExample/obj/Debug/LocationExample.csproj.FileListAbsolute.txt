@@ -1,0 +1,12 @@
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\Bin\Debug\ApplicationIcon.png
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\Bin\Debug\Background.png
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\Bin\Debug\LocationExample.dll
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\Bin\Debug\LocationExample.pdb
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\Bin\Debug\AppManifest.xaml
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\Bin\Debug\LocationExample.xap
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\obj\Debug\App.g.i.cs
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\obj\Debug\MainPage.g.i.cs
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\obj\Debug\LocationExample.g.resources
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\obj\Debug\LocationExample.dll
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\obj\Debug\LocationExample.pdb
+C:\Users\AdvUser\Desktop\LocationExample\LocationExample\obj\Debug\XapCacheFile.xml

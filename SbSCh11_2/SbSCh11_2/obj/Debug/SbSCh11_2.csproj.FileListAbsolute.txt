@@ -1,0 +1,12 @@
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\Bin\Debug\ApplicationIcon.png
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\Bin\Debug\Background.png
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\Bin\Debug\SbSCh11_2.dll
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\Bin\Debug\SbSCh11_2.pdb
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\Bin\Debug\AppManifest.xaml
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\Bin\Debug\SbSCh11_2.xap
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\obj\Debug\App.g.i.cs
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\obj\Debug\MainPage.g.i.cs
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\obj\Debug\SbSCh11_2.g.resources
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\obj\Debug\SbSCh11_2.dll
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\obj\Debug\SbSCh11_2.pdb
+C:\Users\AdvUser\Desktop\SbSCh11_2\SbSCh11_2\obj\Debug\XapCacheFile.xml
