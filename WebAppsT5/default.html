@@ -1,0 +1,57 @@
+﻿<html>
+<head>
+    <meta charset="utf-8" />
+    <title>My ToDo List</title>
+    <style type="text/css">
+        .auto-style1 {
+            font-size: large;
+            text-align: center;
+        }
+    </style>
+    <meta name="viewport" content="width=device.width, initial-scale=1" />
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css" />
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
+</head>
+<body>
+    <section>
+        <!-- Simple ToDo List HTML form -->
+        <p class="auto-style1"><strong>My ToDo List</strong></p>
+        <form id="form" action="#" method="post">
+        <input id="description" name="description" type="text" />
+        <input id="add" type="submit" value="Add" />
+        <button id="clear">Clear All</button>
+        </form>
+        <div id="alert"></div>
+        <ul id="todos"></ul>
+    </section>
+    <script>
+        $('#add').click(function () {
+            var Description = $('#description').val();
+            // If the to-do is empty
+            if ($("#description").val() == '') {
+                $('#alert').html("<strong>Warning!</strong> You left the to-do empty");
+                $('#alert').fadeIn().delay(1000).fadeOut();
+                return false;
+            }
+            // add the list item
+            $('#todos').prepend("<li>" + Description + "</li>");
+            // delete whatever is in the input
+            $('#form')[0].reset();
+            var todos = $('#todos').html();
+            localStorage.setItem('todos', todos);
+            return false;
+        });
+        // if we have something on local storage place that
+        if (localStorage.getItem('todos')) {
+            $('#todos').html(localStorage.getItem('todos'));
+        }
+        // clear all the local storage
+        $('#clear').click(function () {
+            window.localStorage.clear();
+            location.reload();
+            return false;
+        });
+    </script>
+</body>
+</html>

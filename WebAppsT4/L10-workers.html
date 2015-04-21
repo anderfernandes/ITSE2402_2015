@@ -1,0 +1,19 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+<script>
+    var worker = new Worker('doWork.js');
+    // Send a message to start the worker and pass a variable to it
+    var info = 'Web Workers';
+    worker.postMessage(info);
+    // Receive a message from the worker
+    worker.onmessage = function (event) {
+        // Do something
+        alert(event.data);
+    };
+</script>
+<title>Web Workers Example</title>
+</head>
+<body>
+</body>
+</html>

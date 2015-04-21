@@ -1,0 +1,13 @@
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bin\ARM\Debug\resources.pri
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bin\ARM\Debug\AppxManifest.xml
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bin\ARM\Debug\App1.build.appxrecipe
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bld\ARM\Debug\priconfig.xml.intermediate
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bld\ARM\Debug\layout.resfiles.intermediate
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bld\ARM\Debug\resources.resfiles.intermediate
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bld\ARM\Debug\pri.resfiles.intermediate
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bld\ARM\Debug\priconfig.xml
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bld\ARM\Debug\layout.resfiles
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bld\ARM\Debug\resources.resfiles
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bld\ARM\Debug\pri.resfiles
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bld\ARM\Debug\LanguageQualifiers.txt
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\WebAppsT4-1\App1\App1\bld\ARM\Debug\ProjectArchitectures.txt
