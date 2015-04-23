@@ -1,0 +1,17 @@
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\Bin\Debug\ApplicationIcon.png
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\Bin\Debug\Background.png
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\Bin\Debug\HelloPhoneGap.dll
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\Bin\Debug\HelloPhoneGap.pdb
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\Bin\Debug\AppManifest.xaml
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\Bin\Debug\HelloPhoneGap.xap
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\obj\Debug\App.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\obj\Debug\MainPage.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\obj\Debug\cordovalib\CordovaView.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\obj\Debug\Plugins\UI\AudioRecorder.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\obj\Debug\Plugins\UI\ImageCapture.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\obj\Debug\Plugins\UI\NotificationBox.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\obj\Debug\Plugins\UI\VideoRecorder.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\obj\Debug\HelloPhoneGap.g.resources
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\obj\Debug\HelloPhoneGap.dll
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\obj\Debug\HelloPhoneGap.pdb
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\HelloPhoneGap\HelloPhoneGap\obj\Debug\XapCacheFile.xml
