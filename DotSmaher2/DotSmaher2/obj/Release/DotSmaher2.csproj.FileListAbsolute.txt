@@ -1,0 +1,17 @@
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\Bin\Release\ApplicationIcon.png
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\Bin\Release\Background.png
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\Bin\Release\DotSmaher2.dll
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\Bin\Release\DotSmaher2.pdb
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\Bin\Release\AppManifest.xaml
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\Bin\Release\DotSmaher2.xap
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\obj\Release\App.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\obj\Release\MainPage.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\obj\Release\cordovalib\CordovaView.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\obj\Release\Plugins\UI\AudioRecorder.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\obj\Release\Plugins\UI\ImageCapture.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\obj\Release\Plugins\UI\NotificationBox.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\obj\Release\Plugins\UI\VideoRecorder.g.i.cs
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\obj\Release\DotSmaher2.g.resources
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\obj\Release\DotSmaher2.dll
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\obj\Release\DotSmaher2.pdb
+C:\Users\AdvUser\Documents\GitHub\ITSE2402_2015\DotSmaher2\DotSmaher2\obj\Release\XapCacheFile.xml

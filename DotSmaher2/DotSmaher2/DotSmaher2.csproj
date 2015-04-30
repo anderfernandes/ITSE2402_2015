@@ -23,12 +23,12 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{0B60C152-E65D-463A-89ED-D78B3FBEA899}</ProjectGuid>
+    <ProjectGuid>{D763BCAD-A66F-47E9-B4F9-76CA60FFE55C}</ProjectGuid>
     <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HelloPhoneGap</RootNamespace>
-    <AssemblyName>HelloPhoneGap</AssemblyName>
+    <RootNamespace>DotSmaher2</RootNamespace>
+    <AssemblyName>DotSmaher2</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
     <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
@@ -38,9 +38,9 @@
     </SupportedCultures>
     <XapOutputs>true</XapOutputs>
     <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
-    <XapFilename>HelloPhoneGap.xap</XapFilename>
+    <XapFilename>DotSmaher2.xap</XapFilename>
     <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
-    <SilverlightAppEntry>HelloPhoneGap.App</SilverlightAppEntry>
+    <SilverlightAppEntry>DotSmaher2.App</SilverlightAppEntry>
     <ValidateXaml>true</ValidateXaml>
     <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
   </PropertyGroup>
@@ -125,6 +125,7 @@
     <None Include="cordova\lib\log.js" />
     <None Include="cordova\lib\target-list.js" />
     <Content Include="www\cordova.js" />
+    <Content Include="www\css\dotsmasher.css" />
     <Content Include="www\css\index.css" />
     <Content Include="www\img\logo.png" />
     <Content Include="www\index.html">
